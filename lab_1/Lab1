@@ -199,7 +199,7 @@
    <soapenv:Header/>\r
    <soapenv:Body>\r
       <tem:CelsiusToFahrenheit>\r
-<!--         <tem:nCelsius>100</tem:nCelsius>\r-->
+<!--         <tem:nCelsius></tem:nCelsius>\r-->
       </tem:CelsiusToFahrenheit>\r
    </soapenv:Body>\r
 </soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://webservices.daehosting.com/temperature/TemperatureConversionsSoapType/CelsiusToFahrenheitRequest"/><con:wsrmConfig version="1.2"/></con:call></con:operation><con:operation id="6f2fcabc-845c-4109-84af-fd31d92b1dc4" isOneWay="false" action="" name="FahrenheitToCelsius" bindingOperationName="FahrenheitToCelsius" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="827cd9b5-ac93-4848-86ba-ea48a351c579" name="Request 1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>https://webservices.daehosting.com/services/TemperatureConversions.wso</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://webservices.daehosting.com/temperature">\r
