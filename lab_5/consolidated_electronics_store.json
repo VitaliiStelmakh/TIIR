@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Laptop Pro X15",
+        "category": "Ноутбуки",
+        "price": 33500.0,
+        "stock": 12,
+        "id": 1,
+        "description": "Updated model with faster processor and more RAM.",
+        "supplier": "GlobalTech",
+        "price_change_percentage": 3.08
+    },
+    {
+        "name": "Smartphone G-Max",
+        "category": "Смартфони",
+        "price": 18999.0,
+        "stock": 35,
+        "id": 2,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Wireless Headphones BZ-500",
+        "category": "Аудіотехніка",
+        "price": 2800.5,
+        "stock": 80,
+        "id": 3,
+        "description": "Enhanced bass and longer battery life.",
+        "supplier": "AudioPhonics",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Tablet T-10 Gen2",
+        "category": "Планшети",
+        "price": 9500.0,
+        "stock": 25,
+        "id": 4,
+        "description": null,
+        "supplier": "Tablet Makers",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Smartwatch FitPro 3",
+        "category": "Носимі пристрої",
+        "price": 6800.0,
+        "stock": 40,
+        "id": 5,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Gaming Mouse Viper X",
+        "category": "Accessories",
+        "price": 1450.0,
+        "stock": 90,
+        "id": 6,
+        "description": null,
+        "supplier": "PeripheralMasters",
+        "price_change_percentage": -3.38
+    },
+    {
+        "name": "4K Monitor ViewSonic Pro",
+        "category": "Monitors",
+        "price": 11200.0,
+        "stock": 15,
+        "id": 7,
+        "description": "Now supports HDR10+.",
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "External SSD 1TB Extreme",
+        "category": "Storage",
+        "price": 3200.0,
+        "stock": 60,
+        "id": 8,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Mechanical Keyboard K70",
+        "category": "Accessories",
+        "price": 4100.0,
+        "stock": 30,
+        "id": 9,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "E-Reader Voyage Lite",
+        "category": "E-Readers",
+        "price": 3500.0,
+        "stock": 30,
+        "id": 10,
+        "description": "New paperwhite display for comfortable reading.",
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "UltraWide Monitor UWQ34",
+        "category": "Monitors",
+        "price": 17500.0,
+        "stock": 12,
+        "id": 11,
+        "description": null,
+        "supplier": "DisplayTech",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Noise Cancelling Earbuds NC-80",
+        "category": "Аудіотехніка",
+        "price": 3100.0,
+        "stock": 55,
+        "id": 12,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Graphics Card RTX 4070",
+        "category": "Components",
+        "price": 24500.0,
+        "stock": 10,
+        "id": 13,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": -2.0
+    },
+    {
+        "name": "Compact Camera ZoomX",
+        "category": "Cameras",
+        "price": 14000.0,
+        "stock": 17,
+        "id": 14,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Portable Power Bank 20000mAh",
+        "category": "Accessories",
+        "price": 1200.0,
+        "stock": 110,
+        "id": 15,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": -4.0
+    },
+    {
+        "name": "Workstation Laptop Precision Z",
+        "category": "Ноутбуки",
+        "price": 55000.0,
+        "stock": 7,
+        "id": 16,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Budget Smartphone Poco M5",
+        "category": "Смартфони",
+        "price": 6500.0,
+        "stock": 60,
+        "id": 17,
+        "description": "Now with extended warranty.",
+        "supplier": "BudgetMobiles",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Bluetooth Speaker SoundWave",
+        "category": "Аудіотехніка",
+        "price": 2100.0,
+        "stock": 40,
+        "id": 18,
+        "description": "Improved Bluetooth 5.2 connectivity.",
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Curved Gaming Monitor C27G",
+        "category": "Monitors",
+        "price": 9800.0,
+        "stock": 20,
+        "id": 19,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Wireless Charger Pad Qi15W",
+        "category": "Accessories",
+        "price": 750.0,
+        "stock": 70,
+        "id": 20,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Action Camera Hero 10",
+        "category": "Cameras",
+        "price": 13500.0,
+        "stock": 14,
+        "id": 21,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Office Printer AllInOne",
+        "category": "Printers",
+        "price": 4800.0,
+        "stock": 20,
+        "id": 22,
+        "description": null,
+        "supplier": "PrintWell",
+        "price_change_percentage": null
+    },
+    {
+        "name": "VR Headset Quest 3",
+        "category": "VR",
+        "price": 18500.0,
+        "stock": 9,
+        "id": 23,
+        "description": null,
+        "supplier": "VR World",
+        "price_change_percentage": -2.63
+    },
+    {
+        "name": "Fitness Tracker Band 7",
+        "category": "Носимі пристрої",
+        "price": 1800.0,
+        "stock": 50,
+        "id": 24,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Router WiFi 6 Mesh",
+        "category": "Networking",
+        "price": 3900.0,
+        "stock": 28,
+        "id": 25,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Projector HomeCinema HD",
+        "category": "Projectors",
+        "price": 16500.0,
+        "stock": 9,
+        "id": 26,
+        "description": "Brighter lamp and improved color accuracy.",
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Webcam ProStream 1080p",
+        "category": "Accessories",
+        "price": 1900.0,
+        "stock": 45,
+        "id": 27,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Drawing Tablet PenMaster",
+        "category": "Планшети",
+        "price": 7200.0,
+        "stock": 16,
+        "id": 28,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "CPU Core i7 Gen13",
+        "category": "Components",
+        "price": 15500.0,
+        "stock": 13,
+        "id": 29,
+        "description": null,
+        "supplier": null,
+        "price_change_percentage": null
+    },
+    {
+        "name": "Flagship Smartphone Ultra S25",
+        "category": "Смартфони",
+        "price": 37500.0,
+        "stock": 20,
+        "id": 30,
+        "description": "Special launch discount applied.",
+        "supplier": null,
+        "price_change_percentage": -1.32
+    },
+    {
+        "name": "Gaming Laptop Legion Pro",
+        "category": "Ноутбуки",
+        "price": 48000.0,
+        "stock": 10,
+        "id": 31,
+        "description": "High-end gaming laptop with dedicated GPU.",
+        "supplier": "NextGen Gaming",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Mid-Range Smartphone Pixel Lite",
+        "category": "Смартфони",
+        "price": 14500.0,
+        "stock": 30,
+        "id": 32,
+        "description": "Excellent camera and clean Android experience.",
+        "supplier": "PhoneBuilders Inc.",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Soundbar Atmos 5.1",
+        "category": "Аудіотехніка",
+        "price": 9800.0,
+        "stock": 15,
+        "id": 33,
+        "description": "Immersive sound experience for home theater.",
+        "supplier": "AudioPhonics",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Portable SSD 2TB Rugged",
+        "category": "Storage",
+        "price": 5500.0,
+        "stock": 40,
+        "id": 34,
+        "description": "Durable and fast portable storage solution.",
+        "supplier": "DataStore Corp",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Professional DSLR Camera Z9",
+        "category": "Cameras",
+        "price": 65000.0,
+        "stock": 5,
+        "id": 35,
+        "description": "Full-frame sensor for stunning photography.",
+        "supplier": "PhotoGear Ltd.",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Ergonomic Office Chair ComfortX",
+        "category": "Office",
+        "price": 7200.0,
+        "stock": 20,
+        "id": 36,
+        "description": "Designed for long hours of comfortable work.",
+        "supplier": "Office Supplies Co.",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Drone SkyExplorer 4K",
+        "category": "Drones",
+        "price": 28000.0,
+        "stock": 8,
+        "id": 37,
+        "description": "Capture breathtaking aerial footage.",
+        "supplier": "AerialTech",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Smart Thermostat EcoHeat",
+        "category": "Smart Home",
+        "price": 4200.0,
+        "stock": 30,
+        "id": 38,
+        "description": "Control your home temperature remotely.",
+        "supplier": "HomeAutomation Inc.",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Air Purifier CleanAir 5000",
+        "category": "Appliances",
+        "price": 6100.0,
+        "stock": 18,
+        "id": 39,
+        "description": "HEPA filter for cleaner indoor air.",
+        "supplier": "HealthyLiving Ltd.",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Robot Vacuum Cleaner RoboSweep",
+        "category": "Appliances",
+        "price": 11500.0,
+        "stock": 12,
+        "id": 40,
+        "description": "Automated floor cleaning solution.",
+        "supplier": "SmartHome Robotics",
+        "price_change_percentage": null
+    },
+    {
+        "name": "NAS Storage 4-Bay Pro",
+        "category": "Networking",
+        "price": 13000.0,
+        "stock": 10,
+        "id": 41,
+        "description": "Centralized storage for home or small office.",
+        "supplier": "NetStore Solutions",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Electric Scooter SwiftRide",
+        "category": "Transportation",
+        "price": 17000.0,
+        "stock": 7,
+        "id": 42,
+        "description": "Eco-friendly personal transportation.",
+        "supplier": "GreenMobility Co.",
+        "price_change_percentage": null
+    },
+    {
+        "name": "3D Printer CreateMax",
+        "category": "3D Printing",
+        "price": 22000.0,
+        "stock": 5,
+        "id": 43,
+        "description": "Bring your digital designs to life.",
+        "supplier": "MakerUniverse",
+        "price_change_percentage": null
+    },
+    {
+        "name": "Security Camera System SecureView",
+        "category": "Security",
+        "price": 8800.0,
+        "stock": 15,
+        "id": 44,
+        "description": "4-camera HD surveillance system.",
+        "supplier": "SafeGuard Tech",
+        "price_change_percentage": null
+    }
+]

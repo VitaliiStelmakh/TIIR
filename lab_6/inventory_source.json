@@ -1,0 +1,182 @@
+[
+  {
+    "item_id": 101,
+    "stock_quantity": 12,
+    "supplier": "GlobalTech",
+    "warehouse_location": "Warehouse A, Shelf 3"
+  },
+  {
+    "item_id": 102,
+    "stock_quantity": 33,
+    "supplier": "MobileCorp",
+    "warehouse_location": "Warehouse B, Bay 1"
+  },
+  {
+    "item_id": 103,
+    "stock_quantity": 70,
+    "supplier": "AudioPhonics",
+    "warehouse_location": "Warehouse A, Shelf 1"
+  },
+  {
+    "item_id": 105,
+    "stock_quantity": 38,
+    "supplier": "WearableWorld",
+    "warehouse_location": "Warehouse C, Zone 2"
+  },
+  {
+    "item_id": 106,
+    "stock_quantity": 85,
+    "supplier": "PeripheralMasters",
+    "warehouse_location": "Warehouse B, Bay 5"
+  },
+  {
+    "item_id": 107,
+    "stock_quantity": 16,
+    "supplier": "DisplayInc",
+    "warehouse_location": "Warehouse A, Shelf 4"
+  },
+  {
+    "item_id": 108,
+    "stock_quantity": 55,
+    "supplier": "DataStore Corp",
+    "warehouse_location": "Warehouse C, Zone 1"
+  },
+  {
+    "item_id": 109,
+    "stock_quantity": 28,
+    "supplier": "GamingGear Inc.",
+    "warehouse_location": "Warehouse B, Bay 2"
+  },
+  {
+    "item_id": 111,
+    "stock_quantity": 10,
+    "supplier": "DisplayInc",
+    "warehouse_location": "Warehouse A, Shelf 4"
+  },
+  {
+    "item_id": 112,
+    "stock_quantity": 50,
+    "supplier": "AudioPhonics",
+    "warehouse_location": "Warehouse A, Shelf 1"
+  },
+  {
+    "item_id": 113,
+    "stock_quantity": 7,
+    "supplier": "CompSource",
+    "warehouse_location": "Warehouse C, Zone 3"
+  },
+  {
+    "item_id": 114,
+    "stock_quantity": 15,
+    "supplier": "PhotoGear Ltd.",
+    "warehouse_location": "Warehouse B, Bay 4"
+  },
+  {
+    "item_id": 115,
+    "stock_quantity": 100,
+    "supplier": "PowerUp Ltd.",
+    "warehouse_location": "Warehouse B, Bay 5"
+  },
+  {
+    "item_id": 116,
+    "stock_quantity": 5,
+    "supplier": "GlobalTech",
+    "warehouse_location": "Warehouse A, Shelf 3"
+  },
+  {
+    "item_id": 117,
+    "stock_quantity": 55,
+    "supplier": "BudgetMobiles",
+    "warehouse_location": "Warehouse B, Bay 1"
+  },
+  {
+    "item_id": 118,
+    "stock_quantity": 35,
+    "supplier": "AudioPhonics",
+    "warehouse_location": "Warehouse A, Shelf 1"
+  },
+  {
+    "item_id": 119,
+    "stock_quantity": 18,
+    "supplier": "DisplayInc",
+    "warehouse_location": "Warehouse A, Shelf 4"
+  },
+  {
+    "item_id": 120,
+    "stock_quantity": 75,
+    "supplier": "PeripheralMasters",
+    "warehouse_location": "Warehouse B, Bay 5"
+  },
+  {
+    "item_id": 121,
+    "stock_quantity": 12,
+    "supplier": "PhotoGear Ltd.",
+    "warehouse_location": "Warehouse B, Bay 4"
+  },
+  {
+    "item_id": 122,
+    "stock_quantity": 20,
+    "supplier": "Office Supplies Co.",
+    "warehouse_location": "Warehouse C, Zone 2"
+  },
+  {
+    "item_id": 123,
+    "stock_quantity": 8,
+    "supplier": "VR World",
+    "warehouse_location": "Warehouse C, Zone 3"
+  },
+  {
+    "item_id": 124,
+    "stock_quantity": 45,
+    "supplier": "WearableWorld",
+    "warehouse_location": "Warehouse C, Zone 2"
+  },
+  {
+    "item_id": 125,
+    "stock_quantity": 25,
+    "supplier": "NetStore Solutions",
+    "warehouse_location": "Warehouse B, Bay 3"
+  },
+  {
+    "item_id": 126,
+    "stock_quantity": 9,
+    "supplier": "HomeCinema Goods",
+    "warehouse_location": "Warehouse A, Shelf 2"
+  },
+  {
+    "item_id": 127,
+    "stock_quantity": 40,
+    "supplier": "PeripheralMasters",
+    "warehouse_location": "Warehouse B, Bay 5"
+  },
+  {
+    "item_id": 128,
+    "stock_quantity": 14,
+    "supplier": "CreativeTools Inc.",
+    "warehouse_location": "Warehouse C, Zone 1"
+  },
+  {
+    "item_id": 129,
+    "stock_quantity": 11,
+    "supplier": "CompSource",
+    "warehouse_location": "Warehouse C, Zone 3"
+  },
+  {
+    "item_id": 130,
+    "stock_quantity": 18,
+    "supplier": "MobileCorp",
+    "warehouse_location": "Warehouse B, Bay 1"
+  },
+  {
+    "item_id": 131, 
+    "stock_quantity": 5,
+    "supplier": "DroneTech",
+    "warehouse_location": "Warehouse C, Zone 4"
+  },
+  {
+    "item_id": 132, 
+    "stock_quantity": 22,
+    "supplier": "SmartHome Robotics",
+    "warehouse_location": "Warehouse A, Shelf 5"
+  }
+]

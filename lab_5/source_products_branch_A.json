@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro X15",
+    "category": "Laptops",
+    "price": 32500.00,
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "name": "Smartphone G-Max",
+    "category": "Smartphones",
+    "price": 18999.00,
+    "stock": 35
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones BZ-500",
+    "category": "Audio",
+    "price": 2800.50,
+    "stock": 75
+  },
+  {
+    "id": 4,
+    "name": "Tablet T-10 Gen2",
+    "category": "Tablets",
+    "price": 9500.00,
+    "stock": 22
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch FitPro 3",
+    "category": "Wearables",
+    "price": 6800.00,
+    "stock": 40
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse Viper X",
+    "category": "Accessories",
+    "price": 1500.75,
+    "stock": 90
+  },
+  {
+    "id": 7,
+    "name": "4K Monitor ViewSonic Pro",
+    "category": "Monitors",
+    "price": 11200.00,
+    "stock": 18
+  },
+  {
+    "id": 8,
+    "name": "External SSD 1TB Extreme",
+    "category": "Storage",
+    "price": 3200.00,
+    "stock": 60
+  },
+  {
+    "id": 9,
+    "name": "Mechanical Keyboard K70",
+    "category": "Accessories",
+    "price": 4100.00,
+    "stock": 30
+  },
+  {
+    "id": 10,
+    "name": "E-Reader Voyage Lite",
+    "category": "E-Readers",
+    "price": 3500.00,
+    "stock": 25
+  },
+  {
+    "id": 11,
+    "name": "UltraWide Monitor UWQ34",
+    "category": "Monitors",
+    "price": 17500.00,
+    "stock": 12
+  },
+  {
+    "id": 12,
+    "name": "Noise Cancelling Earbuds NC-80",
+    "category": "Audio",
+    "price": 3100.00,
+    "stock": 55
+  },
+  {
+    "id": 13,
+    "name": "Graphics Card RTX 4070",
+    "category": "Components",
+    "price": 25000.00,
+    "stock": 8
+  },
+  {
+    "id": 14,
+    "name": "Compact Camera ZoomX",
+    "category": "Cameras",
+    "price": 14000.00,
+    "stock": 17
+  },
+  {
+    "id": 15,
+    "name": "Portable Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 1250.00,
+    "stock": 110
+  },
+  {
+    "id": 16,
+    "name": "Workstation Laptop Precision Z",
+    "category": "Laptops",
+    "price": 55000.00,
+    "stock": 7
+  },
+  {
+    "id": 17,
+    "name": "Budget Smartphone Poco M5",
+    "category": "Smartphones",
+    "price": 6500.00,
+    "stock": 60
+  },
+  {
+    "id": 18,
+    "name": "Bluetooth Speaker SoundWave",
+    "category": "Audio",
+    "price": 2100.00,
+    "stock": 40
+  },
+  {
+    "id": 19,
+    "name": "Curved Gaming Monitor C27G",
+    "category": "Monitors",
+    "price": 9800.00,
+    "stock": 20
+  },
+  {
+    "id": 20,
+    "name": "Wireless Charger Pad Qi15W",
+    "category": "Accessories",
+    "price": 750.00,
+    "stock": 80
+  },
+  {
+    "id": 21,
+    "name": "Action Camera Hero 10",
+    "category": "Cameras",
+    "price": 13500.00,
+    "stock": 14
+  },
+  {
+    "id": 22,
+    "name": "Office Printer AllInOne",
+    "category": "Printers",
+    "price": 4800.00,
+    "stock": 23
+  },
+  {
+    "id": 23,
+    "name": "VR Headset Quest 3",
+    "category": "VR",
+    "price": 19000.00,
+    "stock": 9
+  },
+  {
+    "id": 24,
+    "name": "Fitness Tracker Band 7",
+    "category": "Wearables",
+    "price": 1800.00,
+    "stock": 50
+  },
+  {
+    "id": 25,
+    "name": "Router WiFi 6 Mesh",
+    "category": "Networking",
+    "price": 3900.00,
+    "stock": 28
+  },
+  {
+    "id": 26,
+    "name": "Projector HomeCinema HD",
+    "category": "Projectors",
+    "price": 16500.00,
+    "stock": 11
+  },
+  {
+    "id": 27,
+    "name": "Webcam ProStream 1080p",
+    "category": "Accessories",
+    "price": 1900.00,
+    "stock": 45
+  },
+  {
+    "id": 28,
+    "name": "Drawing Tablet PenMaster",
+    "category": "Tablets",
+    "price": 7200.00,
+    "stock": 16
+  },
+  {
+    "id": 29,
+    "name": "CPU Core i7 Gen13",
+    "category": "Components",
+    "price": 15500.00,
+    "stock": 13
+  },
+  {
+    "id": 30,
+    "name": "Flagship Smartphone Ultra S25",
+    "category": "Smartphones",
+    "price": 38000.00,
+    "stock": 20
+  }
+]
